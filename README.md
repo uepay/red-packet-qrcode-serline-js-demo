@@ -20,4 +20,4 @@ README.md    --- 说明文档
 ```
 
 ## uepay聚合支付接口
-请参考《澳門極易付聚合收银台接入接口規範v1.0.1》说明文档
+请参考[主扫聚合支付文档](https://docs.uepay.mo/archives/activescan)说明
