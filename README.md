@@ -19,5 +19,5 @@ index.html     --- 例子
 README.md    --- 说明文档
 ```
 
-## uepay聚合支付接口
+## 接口文檔
 请参考[主扫聚合支付文档](https://docs.uepay.mo/archives/activescan)说明
